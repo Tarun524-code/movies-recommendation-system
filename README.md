@@ -16,6 +16,12 @@ Built with **Python** and **Streamlit**, it uses collaborative filtering (item-b
 
 ---
 
+## 🌐 Live Demo
+
+Try the application online:
+
+👉 https://movies-recommendation-system-research.streamlit.app/
+
 ## 🛠️ Technologies Used
 
 * Python 3.8+

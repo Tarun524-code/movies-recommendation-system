@@ -1,5 +1,15 @@
 # Movie Recommendation System 🎬
 ![LABEL](https://img.shields.io/badge/LABEL-MESSAGE-COLOR)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Collaborative%20Filtering-brightgreen)
+![Recommendation](https://img.shields.io/badge/Recommendation-Item--Based%20Similarity-yellowgreen)
+![Fuzzy Matching](https://img.shields.io/badge/Fuzzy%20Matching-difflib-lightgrey)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Collaborative%20Filtering-brightgreen)
+![Recommendation](https://img.shields.io/badge/Recommendation-Item--Based%20Similarity-yellowgreen)
+![Fuzzy Matching](https://img.shields.io/badge/Fuzzy%20Matching-difflib-lightgrey)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Dataset](https://img.shields.io/badge/Dataset-MovieLens-ff69b4)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A smart movie recommendation engine that suggests films similar to your favorites.
 Built with **Python** and **Streamlit**, it uses collaborative filtering (item-based cosine similarity) on the MovieLens dataset to find movies with similar rating patterns.
 

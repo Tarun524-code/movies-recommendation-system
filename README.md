@@ -1,5 +1,5 @@
 # Movie Recommendation System 🎬
-
+![LABEL](https://img.shields.io/badge/LABEL-MESSAGE-COLOR)
 A smart movie recommendation engine that suggests films similar to your favorites.
 Built with **Python** and **Streamlit**, it uses collaborative filtering (item-based cosine similarity) on the MovieLens dataset to find movies with similar rating patterns.
 
